@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464382519753",
+    "project_id": "duo-video-2d484",
+    "storage_bucket": "duo-video-2d484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464382519753:android:eddeb527e96fd067f82018",
+        "android_client_info": {
+          "package_name": "com.example.guftgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464382519753-1lvidukkchugfsgfg8lo1l3fm3n4mjjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMpE_oD491wYSTs8ePesRr2JgYFutEc4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464382519753-1lvidukkchugfsgfg8lo1l3fm3n4mjjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
